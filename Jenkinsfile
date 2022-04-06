@@ -9,7 +9,7 @@ pipeline
         {
             steps
             {
-                echo 'Auto Build happening on commit on github'
+                echo 'Auto Build happening on commit on github!!'
             }
         }      
    }
